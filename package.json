@@ -1,0 +1,19 @@
+{
+  "name": "sorts",
+  "version": "1.0.0",
+  "description": "sorting algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nniroula/Sorts.git"
+  },
+  "author": "Nabin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nniroula/Sorts/issues"
+  },
+  "homepage": "https://github.com/nniroula/Sorts#readme"
+}
